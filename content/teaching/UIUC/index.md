@@ -1,5 +1,5 @@
 ---
-title: ME 430: Failure of Engineering Materials
+title: ME 430 Failure of Engineering Materials
 
  event: Wowchemy Conference
  event_url: https://example.org

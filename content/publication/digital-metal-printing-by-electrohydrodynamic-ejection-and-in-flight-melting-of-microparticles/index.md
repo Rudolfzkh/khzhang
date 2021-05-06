@@ -38,7 +38,7 @@ url_source: ""
 url_video: "https://www.linkedin.com/feed/update/urn:li:activity:6743859465503723520/"
 title: Digital metal printing by electrohydrodynamic ejection and in-flight melting of microparticles
 doi: https://doi.org/10.1016/j.addma.2020.101703
-featured: true
+featured: false
 tags:
   - Source Themes
 projects: []

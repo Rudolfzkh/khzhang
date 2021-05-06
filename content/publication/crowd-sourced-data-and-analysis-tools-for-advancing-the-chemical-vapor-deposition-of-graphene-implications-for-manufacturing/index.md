@@ -13,7 +13,7 @@ authors:
   - et al.
 author_notes: []
 doi: https://doi.org/10.1021/acsanm.0c02018
-publication: "*ACS Applied Nano Materials*, 3 (10),"
+publication: "*ACS Applied Nano Materials*, 3 (10)"
 abstract: "Industrial production of graphene by chemical vapor deposition (CVD)
   requires more than the ability to synthesize large domain, high-quality
   graphene in a lab reactor. The integration of graphene in the fabrication

@@ -24,7 +24,7 @@ publication_types:
 authors:
   - H. Merrow
   - J.D. Beroz
-  - "**admin**"
+  - **Kaihao Zhang**
   - U.P. Muecke
   - A.J. Hart
   - ""
@@ -38,14 +38,14 @@ url_source: ""
 url_video: "https://www.linkedin.com/feed/update/urn:li:activity:6743859465503723520/"
 title: Digital metal printing by electrohydrodynamic ejection and in-flight melting of microparticles
 doi: https://doi.org/10.1016/j.addma.2020.101703
-featured: false
+featured: true
 tags:
   - Source Themes
 projects: []
 image:
   caption: "Digital Particle Ejection(DPE)-Melt"
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: dpe-melt.png
 date: 2021-05-06T03:58:04.219Z
 url_slides: ""

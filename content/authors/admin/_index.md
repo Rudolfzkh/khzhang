@@ -38,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'kaihao@mit.edu'
+# - icon: envelope
+#  icon_pack: fas
+#  link: 'kaihao@mit.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KaihaoKh
@@ -68,6 +68,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kaihao Zhang is a postdoc associate in MechanoSynthesis Group in the Department of Mechanical Engineering at MIT. His research at MIT focuses on (i) hybrid metal additive manufacturing technique based on drop-wise digital printing of metal droplets, and (ii) interfacial chemical vapor deposition synthesis of uniform graphene directly on dielectric substrates. 

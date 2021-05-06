@@ -1,5 +1,5 @@
 ---
-title: Failure of Engineering Materials (UIUC-ME 430)/Mechanics of Structural Metals (UIUC-TAM 424)
+title: Engineering Materials (UIUC-ME 330)
 
 event: UIUC ME 330
 event_url: https://mechse.illinois.edu/graduate/graduate-course-offerings/ME330

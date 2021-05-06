@@ -24,13 +24,12 @@ publication_types:
 authors:
   - H. Merrow
   - J.D. Beroz
-  - admin
+  - "**admin**"
   - U.P. Muecke
-  - A.J. Hart.
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: "*Additive Manufacturing* 37, 2021"
+  - A.J. Hart
+  - ""
+author_notes: []
+publication: "*Additive Manufacturing* 37"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -51,7 +50,7 @@ image:
   filename: dpe-melt.png
 date: 2021-05-06T03:58:04.219Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

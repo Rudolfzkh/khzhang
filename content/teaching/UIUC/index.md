@@ -1,7 +1,7 @@
 ---
 title: Failure of Engineering Materials (UIUC-ME 430)/Mechanics of Structural Metals (UIUC-TAM 424)
 
-event: UIUC ME 420
+event: UIUC ME 430
 event_url: https://mechse.illinois.edu/graduate/graduate-course-offerings/ME430
 
 location: Wowchemy HQ

@@ -1,4 +1,18 @@
 ---
+title: Digital metal printing by electrohydrodynamic ejection and in-flight
+  melting of microparticles
+publication_types:
+  - "2"
+authors:
+  - H. Merrow
+  - J.D. Beroz
+  - "**admin**"
+  - U.P. Muecke
+  - A.J. Hart
+  - ""
+author_notes: []
+publication: "*Additive Manufacturing* 37"
+publication_short: ""
 abstract: Metal additive manufacturing (AM) will impact many industries,
   including those producting of advanced structural, propulsion, electronic, and
   thermal systems. Many established metal AM processes involve layer-by-layer
@@ -17,30 +31,15 @@ abstract: Metal additive manufacturing (AM) will impact many industries,
   experiments demonstrate process compatibility with a wide range of powder
   feedstock materials, and tunability of the solidified morphology via the laser
   processing parameters.
+featured: false
+tags: []
 slides: null
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "2"
-authors:
-  - H. Merrow
-  - J.D. Beroz
-  - "**admin**"
-  - U.P. Muecke
-  - A.J. Hart
-  - ""
-author_notes: []
-publication: "*Additive Manufacturing* 37"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
 url_source: ""
-url_video: "https://www.linkedin.com/feed/update/urn:li:activity:6743859465503723520/"
-title: Digital metal printing by electrohydrodynamic ejection and in-flight melting of microparticles
+url_video: https://www.linkedin.com/feed/update/urn:li:activity:6743859465503723520/
 doi: https://doi.org/10.1016/j.addma.2020.101703/
-featured: false
-tags:
-  - Source Themes
 projects: []
 image:
   caption: ""

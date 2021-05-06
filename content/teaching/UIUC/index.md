@@ -1,5 +1,5 @@
 ---
-title: Failure of Engineering Materials
+title: Failure of Engineering Materials (UIUC-ME 430)/Mechanics of Structural Metals (UIUC-TAM 424)
 
 event: Wowchemy Conference
 event_url: https://example.org

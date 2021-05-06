@@ -3,7 +3,7 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: About
+widget_id: Welcome
 headless: true
 weight: 10
 title: Wowchemy Research Group

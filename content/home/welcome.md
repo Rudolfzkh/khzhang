@@ -8,7 +8,7 @@ headless: true
 weight: 10
 title: Wowchemy Research Group
 subtitle: ""
-active: false
+active: true
 design:
   columns: "1"
   background:

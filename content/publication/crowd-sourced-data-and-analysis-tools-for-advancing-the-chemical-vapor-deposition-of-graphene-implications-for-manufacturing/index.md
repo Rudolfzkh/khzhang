@@ -51,7 +51,5 @@ image:
   filename: featured.gif
   focal_point: Smart
   preview_only: false
-date: 2020
-
-# 2021-05-06T04:36:10.405Z
+date: 2020-08-27T23:00:00.000Z
 ---

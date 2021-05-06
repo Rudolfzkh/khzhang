@@ -43,7 +43,7 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Digital Particle Ejection(DPE)-Melt"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png

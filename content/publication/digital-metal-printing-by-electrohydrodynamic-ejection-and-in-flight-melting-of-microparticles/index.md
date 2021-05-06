@@ -24,7 +24,7 @@ publication_types:
 authors:
   - H. Merrow
   - J.D. Beroz
-  - "**admin**"
+  - **K.H. Zhang**
   - U.P. Muecke
   - A.J. Hart
   - ""

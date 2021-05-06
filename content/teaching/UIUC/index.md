@@ -1,8 +1,8 @@
 ---
 title: Failure of Engineering Materials (UIUC-ME 430)/Mechanics of Structural Metals (UIUC-TAM 424)
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: UIUC ME 420
+event_url: https://mechse.illinois.edu/graduate/graduate-course-offerings/ME430
 
 location: Wowchemy HQ
 address:
@@ -54,7 +54,7 @@ slides:
 projects:
 ---
 
-The topics of ME 430 include plastic behavior, strengthening, creep, fatigue, fracture, with a balance between materials and solid mechanics.
+Material and elastoplastic properties at crystal level, microstructural basis for fatigue, fracture, and creep in metals, polymers, and ceramics. Failure mechanisms and toughening in composites, structure and behavior of metal matrix composites; ceramic matrix composites and polymer composites. 
 
 # Slides can be added in a few ways:
 

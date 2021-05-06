@@ -1,8 +1,8 @@
 ---
 title: Failure of Engineering Materials (UIUC-ME 430)/Mechanics of Structural Metals (UIUC-TAM 424)
 
-event: UIUC ME 420
-event_url: https://mechse.illinois.edu/graduate/graduate-course-offerings/ME430
+event: UIUC ME 330
+event_url: https://mechse.illinois.edu/graduate/graduate-course-offerings/ME330
 
 location: Wowchemy HQ
 address:
@@ -54,5 +54,5 @@ slides:
 projects:
 ---
 
-Material and elastoplastic properties at crystal level, microstructural basis for fatigue, fracture, and creep in metals, polymers, and ceramics. Failure mechanisms and toughening in composites, structure and behavior of metal matrix composites; ceramic matrix composites and polymer composites. 
+Structures of polymers, metals, and ceramics as the basis for their mechanical behavior. Manipulation of structure through such processes as heat treatment and solidification. Mechanisms of material failure in service (yielding, fracture, fatigue, creep, corrosion, and wear) and simple design techniques to avoid these failures. Strategies for materials selection in design. 
 

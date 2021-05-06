@@ -6,13 +6,14 @@ widget: hero
 widget_id: hero
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: 
+# Wowchemy Research Group
 subtitle: ""
 active: true
 design:
   columns: "1"
   background:
     image: ""
-hero_media: welcome.jpg
+hero_media: research-statement_2021_vision.png
 ---
 The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.

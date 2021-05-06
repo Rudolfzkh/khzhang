@@ -16,4 +16,4 @@ design:
     image: ""
 hero_media: research statement_2021_vision.png
 ---
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Kaihao Zhang** is currently a postdoctoral associate at the Massachusetts Institute of Technology, working with Prof. [John Hart](https://mechanosynthesis.mit.edu/). He earned his MS and PhD in Mechanical Engineering at the University of Illinois Urbana Champaign, advised by Prof. [Sameh Tawfick](https://tawfick.mechse.illinois.edu/), and his BEng degree in Energy and Environment System Engineering at Zhejiang University. His doctoral research focused on **rapid synthesis of graphene** and **graphene-metal interface engineering for high performance graphene-based nanocomposites**. He is currently working on **(i) metal additive manufacturing**, **(ii) advanced 2D materials synthesis**, and **(iii) metal matrix composite materials**. 

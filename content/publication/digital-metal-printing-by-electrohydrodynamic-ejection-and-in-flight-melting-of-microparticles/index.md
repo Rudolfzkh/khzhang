@@ -18,7 +18,7 @@ abstract: Metal additive manufacturing (AM) will impact many industries,
   feedstock materials, and tunability of the solidified morphology via the laser
   processing parameters.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
@@ -45,7 +45,7 @@ projects: []
 image:
   caption: "Digital Particle Ejection(DPE)-Melt"
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: dpe-melt.png
 date: 2021-05-06T03:58:04.219Z
 url_slides: ""

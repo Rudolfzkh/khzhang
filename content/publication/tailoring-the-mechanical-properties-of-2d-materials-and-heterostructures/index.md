@@ -1,13 +1,14 @@
 ---
 title: Tailoring the mechanical properties of 2D materials and heterostructures
 publication_types:
-  - "1"
+  - "2"
 authors:
   - C. Androulidakis
   - admin
   - M. Robertson
   - S. Tawfick
 doi: https://doi.org/10.1088/2053-1583/aac764
+publication: "*2D Materials*, 5 (3)"
 abstract: The mechanical behavior of high quality two-dimensional (2D) crystals
   offers exciting opportunities for new material design, such as the combination
   of extremely high in-plane stiffness and bending flexibility, compared to

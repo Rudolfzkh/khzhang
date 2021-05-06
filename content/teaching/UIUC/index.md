@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: ME 430
 
 event: Wowchemy Conference
 event_url: https://example.org

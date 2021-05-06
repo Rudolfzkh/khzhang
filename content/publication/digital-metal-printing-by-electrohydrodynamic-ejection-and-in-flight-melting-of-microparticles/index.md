@@ -35,16 +35,15 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: ""
-title: Digital metal printing by electrohydrodynamic ejection and in-flight
-  melting of microparticles
+url_video: "https://www.linkedin.com/feed/update/urn:li:activity:6743859465503723520/"
+title: Digital metal printing by electrohydrodynamic ejection and in-flight melting of microparticles
 doi: https://doi.org/10.1016/j.addma.2020.101703
 featured: false
 tags:
   - Source Themes
 projects: []
 image:
-  caption: ""
+  caption: "Digital Particle Ejection(DPE)-Melt"
   focal_point: ""
   preview_only: false
   filename: dpe-melt.png

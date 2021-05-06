@@ -14,6 +14,6 @@ design:
   columns: "1"
   background:
     image: ""
-hero_media: research-statement_2021_vision.png
+hero_media: research statement_2021_vision.png
 ---
 The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.

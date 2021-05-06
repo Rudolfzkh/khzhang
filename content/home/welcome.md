@@ -6,8 +6,7 @@ widget: hero
 widget_id: hero
 headless: true
 weight: 10
-title: 
-# Wowchemy Research Group
+title: null
 subtitle: ""
 active: true
 design:
@@ -16,7 +15,8 @@ design:
     image: ""
 hero_media: research statement_2021_vision.png
 ---
-**Kaihao Zhang** <span style="font-size: 9;">is currently a postdoctoral associate at the Massachusetts Institute of Technology, working with Prof. [John Hart](https://mechanosynthesis.mit.edu/). He earned his MS and PhD in Mechanical Engineering at the University of Illinois Urbana Champaign, advised by Prof. [Sameh Tawfick](https://tawfick.mechse.illinois.edu/), and his BEng degree in Energy and Environment System Engineering at Zhejiang University. His doctoral research focused on **rapid synthesis of graphene** and **graphene-metal interface engineering for high performance graphene-based nanocomposites**. He is currently working on:
-  *metal additive manufacturing, 
-  *advanced 2D materials synthesis,
-  *metal matrix composite materials.</span> 
+**Kaihao Zhang** <span style="font-size: 0.8em;">is currently a postdoctoral associate at the Massachusetts Institute of Technology, working with Prof. [John Hart](https://mechanosynthesis.mit.edu/). He earned his MS and PhD in Mechanical Engineering at the University of Illinois Urbana Champaign, advised by Prof. [Sameh Tawfick](https://tawfick.mechse.illinois.edu/), and his BEng degree in Energy and Environment System Engineering at Zhejiang University. His doctoral research focused on **rapid synthesis of graphene** and **graphene-metal interface engineering for high performance graphene-based nanocomposites**. He is currently working on:</span>
+
+* <span style="font-size: 0.8em;">Metal Additive Manufacturing,
+* <span style="font-size: 0.8em;">Advanced 2D Materials Synthesis,
+* <span style="font-size: 0.8em;">Metal Matrix Composites.

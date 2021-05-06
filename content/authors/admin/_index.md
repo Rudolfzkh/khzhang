@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaihao Zhang
+title: **Kaihao Zhang**
 
 # Is this the primary user of the site?
 superuser: true

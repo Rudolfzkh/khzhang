@@ -9,6 +9,7 @@ authors:
   - L.M. Qiu
   - X.B. Zhang
   - X. Shen
+doi: https://cryocooler.org/resources/Documents/C17/026.pdf#page=1
 publication: "*Cryocoolers 17*, 187"
 abstract: >-
   In order to improve the cooling performance of pulse tube cryocoolers (PTC), a

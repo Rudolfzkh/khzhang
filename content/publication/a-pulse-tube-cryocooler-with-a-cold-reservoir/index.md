@@ -4,12 +4,11 @@ publication_types:
   - "2"
 authors:
   - X.B. Zhang
-  - admin
+  - <ins>admin</ins>
   - L.M. Qiu
   - Z.H. Gan
   - X. Shen
   - S.J. Xiang
-  - ""
 doi: https://doi.org/10.1016/j.cryogenics.2012.12.001
 publication: "*Cryogenics*, 54"
 abstract: Phase difference between pressure wave and mass flow is decisive to

@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - X.B. Zhang
-  - <ins>admin</ins>
+  - admin
   - L.M. Qiu
   - Z.H. Gan
   - X. Shen

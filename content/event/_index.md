@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Ongoing Projects
 
 # View.
 #   1 = List

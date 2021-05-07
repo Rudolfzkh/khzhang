@@ -1,7 +1,7 @@
 ---
 title: Kaihao Zhang
 role: Postdoc Associate
-avatar_filename: avatar2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include metal additive manufacturing, 2D materials,
   and nanocomposites.
 interests:

@@ -33,7 +33,7 @@ featured: false
 image:
   filename: featured.png
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: smart
+  focal_point: Smart
 
 url_code: ""
 url_pdf: ""

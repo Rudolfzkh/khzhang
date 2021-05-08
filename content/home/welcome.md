@@ -16,7 +16,7 @@ design:
 hero_media: research statement_2021_vision.png
 ---
 
- **Kaihao Zhang** <span style="font-size: 0.7em; line-height: 3em;">is currently a postdoctoral associate at the Massachusetts Institute of Technology, working with Prof. [John Hart](https://mechanosynthesis.mit.edu/). He earned his MS and PhD in Mechanical Engineering at the University of Illinois Urbana Champaign, advised by Prof. [Sameh Tawfick](https://tawfick.mechse.illinois.edu/), and his BEng degree in Energy and Environment System Engineering at Zhejiang University. His doctoral research focused on **rapid synthesis of graphene** and **graphene-metal interface engineering for high performance graphene-based nanocomposites**. He is currently working on:</span>
+ **Kaihao Zhang** <span style="font-size: 0.7em; line-height: 0.7em;">is currently a postdoctoral associate at the Massachusetts Institute of Technology, working with Prof. [John Hart](https://mechanosynthesis.mit.edu/). He earned his MS and PhD in Mechanical Engineering at the University of Illinois Urbana Champaign, advised by Prof. [Sameh Tawfick](https://tawfick.mechse.illinois.edu/), and his BEng degree in Energy and Environment System Engineering at Zhejiang University. His doctoral research focused on **rapid synthesis of graphene** and **graphene-metal interface engineering for high performance graphene-based nanocomposites**. He is currently working on:</span>
 
 * <span style="font-size: 0.7em;">**Metal Additive Manufacturing,**
 * <span style="font-size: 0.7em;">**Advanced 2D Materials Synthesis,**

@@ -7,8 +7,6 @@ title: Ongoing Projects
 #   3 = Card
 view: 2
 
-Continued advancement in energy conversion, communication, transportation, and many other critical technologies relies on material innovations, which demand novel synthesis and manufacturing processes for emerging materials and structures.
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""

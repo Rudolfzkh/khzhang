@@ -10,7 +10,7 @@ title: null
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: ""
 hero_media: research statement_2021_vision.png

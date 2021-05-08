@@ -4,16 +4,16 @@ title: Interfacial CVD Synthesis
 # event: Wowchemy Conference
 # event_url: https://example.org
 
-location: Wowchemy HQ
+location: MechanoSynthesis Group at MIT
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 77 Massachusetts Avenue
+  city: Cambridge
+  region: MA
+  postcode: '02139'
   country: United States
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+# summary: An example event.
+abstract: "The interfacial chemical vapor deposition (CVD) synthesis of graphene involves (i) deposition of a thin metal film on a dielectric substrate; followed by (ii) "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

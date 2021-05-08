@@ -31,9 +31,9 @@ tags: []
 featured: false
 
 image:
-  filename: 2D crystal growth.png
+  filename: featured.png
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Smart
+  focal_point: smart
 
 url_code: ""
 url_pdf: ""

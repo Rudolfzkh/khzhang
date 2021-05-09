@@ -3,7 +3,7 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: hero2
+widget_id: hero
 headless: true
 weight: 10
 title: null

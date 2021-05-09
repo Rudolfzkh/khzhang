@@ -4,7 +4,7 @@ advanced:
   ? css_class
 widget: hero
 widget_id: hero
-headless: flase
+headless: false
 weight: 10
 title: Advanced fabrication of graphene and related layered structures
 subtitle: ""

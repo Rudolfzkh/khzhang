@@ -18,5 +18,5 @@ design:
 * <span style="font-size: 1em;">**CVD synthesis of graphene and related layered structures**
 * <span style="font-size: 1em;">**Graphene-metal nanocomposites and strengthening & toughening mechanisms**
 * <span style="font-size: 1em;">**Nanomechanics and nanomaterial characterizations**
-* <span style="font-size: 1em;">**Laser assisted processing and metal additive manufacturing techniques**
+* <span style="font-size: 1em;">**Laser assisted processing and novel metal additive manufacturing techniques**
 * <span style="font-size: 1em;">**Fluid dynamics and heat transfer in metal additive manufacturing**

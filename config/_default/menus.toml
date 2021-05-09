@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Research"
-  url = "event"
+  url = "home"
   weight = 30
 
 [[main]]

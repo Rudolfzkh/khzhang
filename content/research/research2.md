@@ -13,10 +13,12 @@ design:
   columns: "1"
   background:
     image: ""
-hero_media: interfacial CVD.png
+hero_media: graphene metal nanocomposites.png
 ---
-<span style="font-size: 0.7em; line-height: normal;">**Kaihao Zhang** is currently a postdoctoral associate at the Massachusetts Institute of Technology, working with Prof. [John Hart](https://mechanosynthesis.mit.edu/). He earned his MS and PhD in Mechanical Engineering at the University of Illinois Urbana Champaign, advised by Prof. [Sameh Tawfick](https://tawfick.mechse.illinois.edu/), and his BEng degree in Energy and Environment System Engineering at Zhejiang University. His doctoral research focused on **rapid synthesis of graphene** and **graphene-metal interface engineering for high performance graphene-based nanocomposites**. He is currently working on:</span>
+<span style="font-size: 0.7em; line-height: 12px;">**`High performance metal matrix nanocomposites:`** 
+Wrinkles invariably form during graphene growth and post-transfer processes and limit the large-scale uniformity of graphene films for electronic applications. Here we study a transfer-free synthesis route of highly-uniform graphene directly on insulating substrates by interfacial carbon precipitation. Research focuses on:</span>
 
-* <span style="font-size: 0.7em;">**Metal Additive Manufacturing,**
-* <span style="font-size: 0.7em;">**Advanced 2D Materials Synthesis,**
-* <span style="font-size: 0.7em;">**Metal Matrix Composites.**
+* <span style="font-size: 0.7em;">metal-substrate stability at elevated temperatures
+* <span style="font-size: 0.7em;">precipitation control at the metal-substrate interface
+* <span style="font-size: 0.7em;">interfacial synthesis of graphene on complex nanostructured interface
+* <span style="font-size: 0.7em;">heterogeneous integration by interfacial synthesis, etc.

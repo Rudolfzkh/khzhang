@@ -21,4 +21,9 @@ header:
 * <span style="font-size: 1em;">**Metal Matrix Composites.**
 
 
+image:
+  filename: Interfacial CVD.png
+  focal_point: Smart
+  preview_only: false
+
 

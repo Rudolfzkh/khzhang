@@ -17,4 +17,9 @@ design:
 
 hero_media: interfacial CVD.png
 ---
-<span style="font-size: 0.8em; line-height: 12px;">Large-scale, high-quality graphene films can now be easily fabricated by chemical vapor deposition synthesis. However, wrinkles invariably form during graphene growth and post-transfer and limit the large-scale uniformity of graphene films for electronic applications. Here we study a transfer-free synthesis route of highly-uniform graphene directly on insulating substrates by the interfacial carbon precipitation. The process involves thin metal film (e.g. Ni, Pd) deposition on the target insulating substrate, followed by annealing and rapid heating of the metal-substrate in hydrocarbon atmosphere let carbon diffuse through the metal layer; upon cooling, the remnant carbon in the metal layer precipitated toward both thin film surface and the metal-substrate interface forming graphene, respectively. After removing surface-grown graphene and the metal layer, wrinkle-free graphene with sub-nm surface roughness can be obtained on destination substrates. </span>
+<span style="font-size: 0.8em; line-height: 12px;">
+Wrinkles invariably form during graphene growth and post-transfer processes and limit the large-scale uniformity of graphene films for electronic applications. Here we study a transfer-free synthesis route of highly-uniform graphene directly on insulating substrates by interfacial carbon precipitation. Research focuses on:</span>
+* <span style="font-size: 1em;">**metal-substrate stability at elevated temperatures**
+* <span style="font-size: 1em;">**precipitation control at the metal-substrate interface**
+* <span style="font-size: 1em;">**interfacial synthesis of graphene on complex nanostructured interface**
+* <span style="font-size: 1em;">**heterogeneous integration by interfacial synthesis, etc.**

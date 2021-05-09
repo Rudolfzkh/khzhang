@@ -10,7 +10,7 @@ title: null
 subtitle: ""
 active: true
 design:
-  columns: "3"
+  columns: "1"
   background:
     image: ""
 ---

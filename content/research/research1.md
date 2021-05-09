@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: blank
 headless: true
-weight: 5
+weight: 10
 title: null
 subtitle: ""
 active: true

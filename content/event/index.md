@@ -20,10 +20,10 @@ header:
 * <span style="font-size: 1em;">**Advanced 2D Materials Synthesis,**
 * <span style="font-size: 1em;">**Metal Matrix Composites.**
 
-
-image:
-  filename: Interfacial CVD.png
-  focal_point: Smart
-  preview_only: false
+design:
+  columns: "1"
+  background:
+    image: ""
+hero_media: Interfacial CVD.png
 
 

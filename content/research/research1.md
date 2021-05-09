@@ -2,8 +2,8 @@
 advanced:
   ? css_style
   ? css_class
-widget: page
-widget_id: page
+widget: pages
+widget_id: pages
 headless: true
 weight: 10
 title: null

@@ -3,14 +3,14 @@ name = "Minimal"
 
 # Optional Google font URL
 # google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
-google_fonts = "family=Crimson+Pro&family=Source+Sans+Pro"
+google_fonts = "family=Newsreader"
 
 # Font families
 # heading_font = "Montserrat"
-heading_font = "Crimson Pro"
+heading_font = "Newsreader"
 # body_font = "Roboto"
-body_font = "Crimson Pro"
+body_font = "Newsreader"
 # nav_font = "Roboto"
-nav_font = "Crimson Pro"
+nav_font = "Newsreader"
 # mono_font = "Roboto Mono"
-mono_font = "Crimson Pro"
+mono_font = "Newsreader"

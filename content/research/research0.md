@@ -2,8 +2,8 @@
 advanced:
   ? css_style
   ? css_class
-widget: hero
-widget_id: hero
+widget: blank
+widget_id: blank
 headless: true
 weight: 10
 title: null

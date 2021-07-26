@@ -7,7 +7,7 @@ widget_id: hero
 headless: false
 weight: 10
 title: null
-subtitle: "Advanced fabrication of graphene and related layered structures"
+subtitle: ""
 active: true
     
 design:

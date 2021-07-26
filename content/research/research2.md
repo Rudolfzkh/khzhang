@@ -13,7 +13,7 @@ design:
   columns: "1"
   background:
     image: ""
-hero_media: graphene metal nanocomposites.png
+hero_media: thrust_graphene-metal nanocomposites.png
 ---
 <span style="font-size: 1em; line-height: 12px;">**`High performance metal matrix nanocomposites:`** 
 <span style="font-size: 0.7em; line-height: 12px;">We use a model system consisting of a metallic nanostructure (e.g. metal nanowires, ultrathin metal films) and a directly-grown monolayer graphene to study interplay between graphene and underlying metal substrate, and related mechanical, conductive, and chemical properties. Research focuses on:</span>

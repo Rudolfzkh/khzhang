@@ -1,8 +1,9 @@
 ---
-title: "123"
-subtitle: "456"
+title: Upcoming Solid Freeform Fabrication Symposium 2021 (virtual)
+subtitle: ""
 date: 2021-07-26T15:58:10.943Z
-summary: JKA
+summary: "Welcome to our talk: Printing of Metal Droplet Streams Using
+  Continuous Breakup of a Laser Heated Metal Wire"
 draft: false
 featured: false
 authors:

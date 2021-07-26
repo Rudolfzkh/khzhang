@@ -1,13 +1,13 @@
 ---
 title: Kaihao Zhang
-role: Postdoc Associate
+role: 
 avatar_filename: avatar.jpg
-bio: My research interests include metal additive manufacturing, 2D materials,
-  and nanocomposites.
+bio: My research interests include metal additive manufacturing, cabron nanomaterials,
+  and composite materials.
 interests:
-  - Metal Additive Manufacturing
-  - 2D Materials and Nanomechanics
   - Metal Matrix Composites
+  - Metal Additive Manufacturing
+  - 2D Materials Synthesis and Nanomechanics
 social:
   - icon: twitter
     icon_pack: fab

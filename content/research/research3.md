@@ -15,7 +15,7 @@ design:
   background:
     image: ""
 
-hero_media: interfacial CVD.png
+hero_media: thrust_interfacial CVD.png
 ---
 <span style="font-size: 1em; line-height: 12px;">**`Advanced fabrication of graphene and related layered structures:`** 
 <span style="font-size: 0.7em; line-height: 12px;">Wrinkles invariably form during graphene growth and post-transfer processes and limit the large-scale uniformity of graphene films for electronic applications. Here we study a transfer-free synthesis route of highly-uniform graphene directly on insulating substrates by interfacial carbon precipitation. Research focuses on:</span>

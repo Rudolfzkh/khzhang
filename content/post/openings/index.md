@@ -1,7 +1,8 @@
 ---
 title: Openings
-subtitle: "Fully funded Ph.D. and Post-doc "
+subtitle: ""
 date: 2021-07-31T23:12:49.741Z
+summary: Fully funded Ph.D. and Post-doc
 draft: false
 featured: false
 image:

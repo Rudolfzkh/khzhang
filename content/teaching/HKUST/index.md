@@ -56,12 +56,12 @@ projects:
 
 In 2022 Spring, I will be teaching special topic course at MAE: Advanced Additive Manufacturing [3-0-0:3]
 
-This course provides students with the latest knowledge and skills for metal additive manufacturing (AM) techniques and implications and the fundamental understanding of process-structure-property relationships in metal processing using AM. The objectives of this course are to enable the students to:
+This course provides students with the latest knowledge and skills for metal additive manufacturing (AM) techniques and implications and the fundamental understanding of process-structure-property relationships in metal processing using AM. The objectives of this course are to enable the students to:</span>
 
-•	Acquire a comprehensive knowledge of the major processes and techniques used in AM of metallic materials.<\span>
-•	Identify the physics and critical processing parameters in current metal AM techniques.<\span>
-•	Obtain a systematic understanding of process-structure-property relationships across different length scales in metal AM processes.<\span>
-•	Understand the latest industrial and academic challenges and opportunities in metal AM.<\span>
-•	Acquire the skills and confidence to create innovative solutions using AM across a vast opportunity space.<\span>
+* <span style="font-size: 1em;">**Acquire a comprehensive knowledge of the major processes and techniques used in AM of metallic materials.**
+* <span style="font-size: 1em;">**Identify the physics and critical processing parameters in current metal AM techniques.**
+* <span style="font-size: 1em;">**Obtain a systematic understanding of process-structure-property relationships across different length scales in metal AM processes.**
+* <span style="font-size: 1em;">**Understand the latest industrial and academic challenges and opportunities in metal AM.**
+* <span style="font-size: 1em;">**Acquire the skills and confidence to create innovative solutions using AM across a vast opportunity space.**
 
 

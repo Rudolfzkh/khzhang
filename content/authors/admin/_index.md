@@ -37,4 +37,4 @@ highlight_name: true
 ---
 Kaihao Zhang, Assistant Professor in Smart Manufacturing, Systems Hub, HKUST (GZ). 
 
-From 2019-2021, he worked in the Mechanosynthesis Lab at MIT.
+From 2019-2021, he worked as a postdoc associate in the Mechanosynthesis Lab at MIT.

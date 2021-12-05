@@ -27,7 +27,7 @@ font = "minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "XL"
 
 ############################
 ## Basic Info
@@ -85,16 +85,16 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kaihao@mit.edu"
-phone = "+1 217-819-7902"
+email = "kaihaozhang@ust.hk"
+phone = "+852 2358 8119"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "77 Massachusetts Avenue, 35-001", city = "Cambridge", region = "MA", postcode = "02139", country = "United States", country_code = "US"}
+address = {street = "Room 2563, Academic Building, HKUST", city = "", region = "Clear Water Bay", postcode = "", country = "Hong Kong", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.36057148977186", longitude = "-71.09399944425859"}
+coordinates = {latitude = "22.336459", longitude = "114.266120"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Reception on Floor 2"

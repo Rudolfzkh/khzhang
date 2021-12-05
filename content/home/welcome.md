@@ -15,7 +15,7 @@ design:
     image: ""
 hero_media: research scope_202107.png
 ---
-<span style="font-size: 0.8em; line-height: normal;"> 
+<span style="font-size: 1em; line-height: normal;"> 
 
 Welcome to the Zhang Group!
 
@@ -23,6 +23,6 @@ We are an interdisciplinary research group in **Smart Manufacturing (SMMG)** Thr
 
 We aim to tackle challenges in material processing and manufacturing with research focuses on:</span>
 
-* <span style="font-size: 0.8em;">**New Additive Manufacturing Technologies**
-* <span style="font-size: 0.8em;">**Metal Matrix Composites and Mechanics**
-* <span style="font-size: 0.8em;">**Advanced Materials and Manufacturing**
+* <span style="font-size: 1em;">**New Additive Manufacturing Technologies**
+* <span style="font-size: 1em;">**Metal Matrix Composites and Mechanics**
+* <span style="font-size: 1em;">**Advanced Materials and Manufacturing**

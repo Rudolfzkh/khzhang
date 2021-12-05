@@ -16,8 +16,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/kzhang36/
 organizations:
-  - name: Massachusetts Institute of Technology
-    url: https://www.mit.edu
+  - name: The Hong Kong University of Science and Technology
+    url: https://hkust-gz.edu.cn/
 education:
   courses:
     - course: PhD in Mechanical Engineering

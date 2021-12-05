@@ -19,7 +19,7 @@ hero_media: research scope_202107.png
 
 Welcome to the Zhang Group!
 
-We are an interdisciplinary research group in **Smart Manufacturing (SMMG)** Thrust in **Systems Hub**, at the Hong Kong University of Science and Technology (Guangzhou).
+We are an interdisciplinary research group in **Smart Manufacturing (SMMG)** Thrust in **Systems Hub**, at [the Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
 
 We aim to tackle challenges in material processing and manufacturing with research focuses on:</span>
 

@@ -54,5 +54,14 @@ slides:
 projects:
 ---
 
-Material and elastoplastic properties at crystal level, microstructural basis for fatigue, fracture, and creep in metals, polymers, and ceramics. Failure mechanisms and toughening in composites, structure and behavior of metal matrix composites; ceramic matrix composites and polymer composites. 
+In 2022 Spring, I will be teaching special topic course at MAE: Advanced Additive Manufacturing [3-0-0:3]
+
+This course provides students with the latest knowledge and skills for metal additive manufacturing (AM) techniques and implications and the fundamental understanding of process-structure-property relationships in metal processing using AM. The objectives of this course are to enable the students to:
+
+•	Acquire a comprehensive knowledge of the major processes and techniques used in AM of metallic materials.
+•	Identify the physics and critical processing parameters in current metal AM techniques.
+•	Obtain a systematic understanding of process-structure-property relationships across different length scales in metal AM processes.
+•	Understand the latest industrial and academic challenges and opportunities in metal AM.
+•	Acquire the skills and confidence to create innovative solutions using AM across a vast opportunity space.
+
 

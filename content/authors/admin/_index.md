@@ -22,13 +22,13 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: University of Illinois Urbana Champaign
-      year: 2
+      year: ""
     - course: MS in Mechanical Engineering
       institution: University of Illinois Urbana Champaign
-      year: 2
+      year: ""
     - course: BEng in Energy and Environment System Engineering
       institution: Zhejiang University
-      year: 2
+      year: ""
 email: ""
 superuser: true
 user_groups:

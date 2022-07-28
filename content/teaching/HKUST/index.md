@@ -1,5 +1,5 @@
 ---
-title: MECH6910R Advanced Additive Manufacturing (2022 Spring)
+title: MECH6910R Metal Additive Manufacturing (2022 Spring)
 
 event: HKUST MECH6910R
 event_url: 

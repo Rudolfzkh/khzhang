@@ -54,7 +54,7 @@ slides:
 projects:
 ---
 
-In 2022 Spring, I will be teaching special topic course at MAE: Advanced Additive Manufacturing [3-0-0:3]
+In 2022 Spring, I will be teaching special topic course at MAE: Metal Additive Manufacturing [3-0-0:3]
 
 This course provides students with the latest knowledge and skills for metal additive manufacturing (AM) techniques and implications and the fundamental understanding of process-structure-property relationships in metal processing using AM. The objectives of this course are to enable the students to:</span>
 

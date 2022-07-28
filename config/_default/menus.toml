@@ -37,3 +37,8 @@
   name = "Contact"
   url = "contact"
   weight = 60
+  
+[[main]]
+  name = "Opening"
+  url = "Opening"
+  weight = 70

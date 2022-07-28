@@ -54,13 +54,13 @@ slides:
 projects:
 ---
 
-In 2022 Spring, I will be teaching special topic course at MAE: Metal Additive Manufacturing [3-0-0:3]
+In 2022 Fall, I will be teaching a SMMG PG course: Fundamentals in Metal Processing [3-0-0:3]
 
-This course provides students with the latest knowledge and skills for metal additive manufacturing (AM) techniques and implications and the fundamental understanding of process-structure-property relationships in metal processing using AM. The objectives of this course are to enable the students to:</span>
+This course introduces a wide range of manufacturing processes for metal materials, including machining, casting, 3D printing, and heat treatment; and explains the fundamental and practical aspects of manufacturing at scale. For each process, this course explains the underlying physical principles, provides several examples and demonstrations. The course concludes with a perspective on sustainability and the worldwide trajectory of metal manufacturing. The objectives of this course are to enable the students to:</span>
 
-* <span style="font-size: 1em;">**Acquire a comprehensive knowledge of the major processes and techniques used in AM of metallic materials.**
-* <span style="font-size: 1em;">**Identify the physics and critical processing parameters in current metal AM techniques.**
-* <span style="font-size: 1em;">**Obtain a systematic understanding of process-structure-property relationships across different length scales in metal AM processes.**
-* <span style="font-size: 1em;">**Understand the latest industrial and academic challenges and opportunities in metal AM.**
-* <span style="font-size: 1em;">**Acquire the skills and confidence to create innovative solutions using AM across a vast opportunity space.**
+* <span style="font-size: 1em;">**Learn the fundamentals and applications of a variety of metal manufacturing processes, including machining, casting, sheet metal forming, additive manufacturing, and heat treatment.**
+* <span style="font-size: 1em;">**Mechanical behaviors and characterization of metals.**
+* <span style="font-size: 1em;">**Evaluate the performance of metal processing, machines, and systems by key attributes like rate, coast, quality and flexibility.**
+* <span style="font-size: 1em;">**Understand sources of variation in metal manufacturing processes, and how to monitor and control variation.**
+* <span style="font-size: 1em;">**Learn how to design and plan a multi-step metal manufacturing process, and important life-cycle considerations of mass-produced products.**
 

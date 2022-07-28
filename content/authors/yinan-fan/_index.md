@@ -1,7 +1,7 @@
 ---
 title: Yinan Fan
 role: null
-avatar_filename: wechat-image_20220728225053-copy.jpg
+avatar_filename: picture1.jpg
 bio: ""
 interests:
   - Multi-axis multi-material 3D printing

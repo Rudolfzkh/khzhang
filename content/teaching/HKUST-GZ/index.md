@@ -1,7 +1,7 @@
 ---
-title: MECH6910R Metal Additive Manufacturing (2022 Spring)
+title: SMMG5700 Fundamentals in Metal Processing (2022 Fall)
 
-event: HKUST MECH6910R
+event: HKUST-GZ SMMG5700
 event_url: 
 
 location: Wowchemy HQ

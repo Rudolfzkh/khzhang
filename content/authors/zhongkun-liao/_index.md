@@ -1,11 +1,11 @@
 ---
 title: Zhongkun Liao
 role: null
-avatar_filename: picture1.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Multi-axis multi-material 3D printing
-  - Architectural materials
+  - Dropwise printing of metals
+  - Multi-metal additive manufacturing
 social: []
 organizations:
   - name: PhD student in Smart Manufacturing, HKUST-GZ

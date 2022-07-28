@@ -16,7 +16,7 @@ education:
       institution: The University of Hong Kong
       year: ""
     - course: BEng in Process Equipment & Control Engineering
-      institution: Xi'an Jiao Tong University
+      institution: Xi'an Jiaotong University
       year: ""
 email: ""
 superuser: true

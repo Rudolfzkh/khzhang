@@ -1,5 +1,5 @@
 ---
-title: Kaihao Zhang (PI)
+title: Kaihao Zhang
 role: null
 avatar_filename: avatar.jpg
 bio: My research interests include metal additive manufacturing, cabron

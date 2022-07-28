@@ -3,7 +3,9 @@ title: Interfacial Chemical Vapor Deposition of Wrinkle-Free Bilayer Graphene on
   Dielectric Substrates
 publication_types:
   - "2"
-authors: []
+authors:
+  - admin
+  - A. John Hart
 doi: https://doi.org/10.1016/j.apsusc.2022.154367
 publication: "*Applied Surface Science*, 154367, 2022"
 abstract: Wrinkles invariably form during graphene growth and post-growth

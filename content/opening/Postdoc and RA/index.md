@@ -2,7 +2,7 @@
 title: Postdoc and RA
 subtitle: ""
 date: 2021-07-31T23:12:49.741Z
-summary: Well funded Postdoc and RA positions
+summary: Well funded Postdoc and RA positions available
 draft: false
 featured: false
 image:

@@ -31,7 +31,7 @@ abstract: Wrinkles invariably form during graphene growth and post-growth
 draft: false
 featured: true
 image:
-  filename: featured.jpg
+  filename: picture1.png
   focal_point: Smart
   preview_only: false
 date: 2022-07-28T14:56:44.902Z

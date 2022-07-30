@@ -46,7 +46,7 @@ abstract: "Industrial production of graphene by chemical vapor deposition (CVD)
   opportunities for advancing not only graphene but also many other 1D and 2D
   materials."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.gif
   focal_point: Smart

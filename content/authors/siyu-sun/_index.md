@@ -1,7 +1,7 @@
 ---
 title: Siyu Sun
 role: null
-avatar_filename: lqdpdhvsx5zyplxnbbvnbbuwzogf2oal0dqdkvluzqcmaa_1051_1051.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Multi-axis multi-material 3D printing

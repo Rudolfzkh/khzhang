@@ -4,8 +4,7 @@ role: null
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Multi-axis multi-material 3D printing
-  - Architectural materials
+  - Metal matrix composites design and fabrication
 social: []
 organizations:
   - name: Research Assistant in Smart Manufacturing, HKUST-GZ
